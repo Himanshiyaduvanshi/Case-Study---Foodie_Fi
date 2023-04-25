@@ -2680,6 +2680,5 @@ VALUES
 Select * from plans;
 Select * from subscriptions;
 
-describe subscriptions;
 
 
